@@ -269,7 +269,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Sat, 03 Apr 2021 16:16:30 GMT
+Last generated: Sat, 03 Apr 2021 17:39:20 GMT
 </div>
 <div class="stdin"><span class="ps1-path">foreignbill@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Hengkang Guo</b> registered=4y, uid=1011, gid=1
   contributed to 1 repository <b><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -296,16 +296,16 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── AGPL-3.0
 </div>
-<div class="stdin"><span class="ps1-path">foreignbill@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [############        ] 56.77%
-<b>CSS         </b> [####                ] 18.94%
-<b>PYTHON      </b> [##                  ] 9.56 %
-<b>C++         </b> [##                  ] 5.97 %
-<b>HTML        </b> [#                   ] 3.93 %
-<b>JUPYTER NOTEBOOK</b> [#                   ] 3.67 %
-<b>VIM SCRIPT  </b> [#                   ] 0.58 %
-<b>TYPESCRIPT  </b> [#                   ] 0.57 %
+<div class="stdin"><span class="ps1-path">foreignbill@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [############        ] 57.09%
+<b>CSS         </b> [####                ] 19.05%
+<b>PYTHON      </b> [##                  ] 9.62 %
+<b>C++         </b> [##                  ] 6.00 %
+<b>JUPYTER NOTEBOOK</b> [#                   ] 3.69 %
+<b>EJS         </b> [#                   ] 2.11 %
+<b>HTML        </b> [#                   ] 1.85 %
+<b>VIM SCRIPT  </b> [#                   ] 0.59 %
 </div>
-<footer>Connection reset by 177.239.113.155</footer></pre>
+<footer>Connection reset by 149.26.144.76</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
